@@ -9,6 +9,8 @@ Este script Bash permite eliminar archivos grandes en el directorio actual, faci
 - Elimina automáticamente los archivos que superen el límite de tamaño especificado.
 
 - Imprime mensajes informativos para cada archivo procesado.
+  
+- Pregunta si se desea eliminar dicho archivo que supera 1MB.
 
 ## 💻 Requisitos
 - El script debe ejecutarse en un entorno Bash.
