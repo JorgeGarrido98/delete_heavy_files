@@ -19,7 +19,7 @@ Este script Bash permite eliminar archivos grandes en el directorio actual, faci
 
 ## 📝 Instalación
 ### Clona el repositorio en tu máquina local:
-git clone https://github.com/usuario/script-delete-heavy-files.git
+git clone https://github.com/jorgegarrido98/script-delete-heavy-files.git
 
 ### Otorga permisos de ejecución al script:
 chmod +x delete_heavy_files.sh
